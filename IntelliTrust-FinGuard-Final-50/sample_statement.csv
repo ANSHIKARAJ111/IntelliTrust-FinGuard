@@ -1,0 +1,7 @@
+date,description,amount,type
+2026-09-01,Salary Credit,50000,credit
+2026-09-02,Swiggy,458,debit
+2026-09-03,Amazon,2499,debit
+2026-09-04,Uber,320,debit
+2026-09-05,Airtel Recharge,799,debit
+2026-09-06,Unknown Electronics,64999,debit
